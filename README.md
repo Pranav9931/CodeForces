@@ -1,4 +1,4 @@
 # CodeForces
 - Questions from CodeForces
 - Their Solutions
-- Language Preferred: CPP and Python
+- Prominent Languages used: CPP and Python
